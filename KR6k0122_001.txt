@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:44:42.596119
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:07
 #+TITLE: 菩薩戒本
 #+PROPERTY: CBETA_ID T24n1500
 #+PROPERTY: ID KR6k0122
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1500
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6k0122_T_001-1107a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1500¶
-
- 《菩薩戒本》一卷(出〈地持戒品〉中)¶
+No. 1500¶
+《菩薩戒本》一卷(出〈地持戒品〉中)¶
 ¶
 慈氏菩薩說¶
 北涼天竺三藏曇無讖於姑臧譯¶
@@ -33,9 +32,9 @@ No.1500¶
 　離世速成佛，
 　唯此法為最！¶
 　是故諸菩薩，
-　應當勤護持。
+　應當勤護持。」
 #+END_VERSE
-」¶
+¶
 
 「諸大士！此四波羅夷法，是菩薩摩得勒伽，和¶
 合說。¶
